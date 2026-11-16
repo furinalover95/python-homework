@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+output_tokens.npz
+my_tokens.npz
+weights/*.npz
+assets/reference_outputs.npz
